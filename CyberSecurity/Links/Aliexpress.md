@@ -6,5 +6,6 @@
 - [LILY GO T DONGLE S3](https://s.click.aliexpress.com/e/_oB5vh1O)
 - [M5STACK CARDPUTER](https://s.click.aliexpress.com/e/_on7mqmG)
 - [M5STICK C PLUS 2](https://s.click.aliexpress.com/e/_onK9s8g)
-  
-[^1]: *note that these are affiliate links and will result in me (owner of this repository) earning money, if you aren't happy with that please try searching for the devices yourself
+
+> [!WARNING]
+> *note that these are affiliate links and will result in me (owner of this repository) earning money, if you aren't happy with that please try searching for the devices yourself
